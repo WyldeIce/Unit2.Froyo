@@ -1,6 +1,6 @@
 let userInput = prompt(
-    "Please enter your order seperated by commas, no spaces",
-    "vanilla, chocolate, strawberry"
+    "Please enter your order seperated by commas",
+    "vanilla, chocolate, strawberry, coffee"
   );
 
 // ^^^ Generate prompt on load ^^^
